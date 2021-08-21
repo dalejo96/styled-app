@@ -4,8 +4,6 @@ import Button from "../../UI/Button/Button";
 import "./CourseInput.css";
 
 const FormControl = styled.div`
-  margin: 0.5rem 0;
-
   & label {
     font-weight: bold;
     display: block;
